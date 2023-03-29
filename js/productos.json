@@ -1,7 +1,7 @@
 [ 
     {
         "id" : "mate-01",
-        "titulo": "Mate alpaca",
+        "titulo": "Mate Camionero",
         "imagen": "./img/Camioneros/ALPACA.jpg",
         "categoria": {
             "nombre":"Camioneros",
